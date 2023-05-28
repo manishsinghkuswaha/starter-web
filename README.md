@@ -1,5 +1,5 @@
 # Starter Web Repo
-#Starter Web Project
+# Starter Web Project
 ## Intro
 ## Purpose
 ## How to contribute a project
